@@ -1,0 +1,13 @@
+name: ConsultaRecife
+title: ConsultaRecife
+username: julianaandresa
+account: julianaandresa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15115702
+bundleId: 10664478
+url: https://julianaandresa.shinyapps.io/ConsultaRecife/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: medicamentos_distrito03.csv
